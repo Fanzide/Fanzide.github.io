@@ -93,7 +93,7 @@ max_width: 930px
 
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_: # The site-wide (default for all links) Open Graph preview 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -228,7 +228,7 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
+  - jekyll-magick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
@@ -387,11 +387,11 @@ external_links:
   exclude:
 
 # -----------------------------------------------------------------------------
-# Responsive WebP Images
+# Responsive WebP s
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true
+  enabled: false
   widths:
     - 480
     - 800
