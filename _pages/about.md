@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Aerospace Information Research Institute, CAS</a>. Beijing, China.
 profile:
   align: right
-  image:
+  image: _pages/image.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 621, Kedian Building</p>
