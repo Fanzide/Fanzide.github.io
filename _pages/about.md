@@ -6,7 +6,7 @@ subtitle: <a href='#'>Aerospace Information Research Institute, CAS</a>. Beijing
 profile:
   align: right
   image: image.jpg
-  image_circular: true  # crops the image to make it circular
+  image_circular: false  # crops the image to make it circular
   more_info: >
     <p>Office 621, Kedian Building</p>
     <p>Haidian District, Beijing 100019</p>
