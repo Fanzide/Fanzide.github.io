@@ -3,7 +3,7 @@
 
 "li":
   - firstname: ["Xiaohe", "X."]
-    url: https://scholar.google.com/citations?user=
+    url: #
 
 "huang":
   - firstname: ["Feilong", "F."]
@@ -15,7 +15,7 @@
 
 "pei":
   - firstname: ["Tao", "T."]
-    url: https://people.ucas.ac.cn/~peitao
+    url: #
 
 "du":
   - firstname: ["Yunyan", "Y."]
@@ -31,4 +31,4 @@
 
 "zhou":
   - firstname: ["Chenghu", "C."]
-    url: https://people.ucas.ac.cn/~zhouch
+    url: #
