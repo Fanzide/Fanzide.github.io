@@ -1,0 +1,21 @@
+# Venue abbreviation mappings
+# Used for display in publication listings
+
+"IEEE Transactions on Geoscience and Remote Sensing":
+  abbr: "TGRS"
+"IEEE Transactions on Network Science and Engineering":
+  abbr: "TNSE"
+"IEEE Geoscience and Remote Sensing Letters":
+  abbr: "GRSL"
+"International Journal of Geographical Information Science":
+  abbr: "IJGIS"
+"Computers, Environment and Urban Systems":
+  abbr: "CEUS"
+"Complex & Intelligent Systems":
+  abbr: "CIS"
+"Journal of Marine Science and Engineering":
+  abbr: "JMSE"
+"ISPRS International Journal of Geo-Information":
+  abbr: "IJGI"
+"Pattern Recognition":
+  abbr: "PR"

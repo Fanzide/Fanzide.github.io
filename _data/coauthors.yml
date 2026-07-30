@@ -1,0 +1,34 @@
+# Add coauthor information for highlighting and linking in publications
+# Key must be lowercase and without accents
+
+"li":
+  - firstname: ["Xiaohe", "X."]
+    url: https://scholar.google.com/citations?user=
+
+"huang":
+  - firstname: ["Feilong", "F."]
+    url: #
+
+"mou":
+  - firstname: ["Fangli", "F."]
+    url: #
+
+"pei":
+  - firstname: ["Tao", "T."]
+    url: https://people.ucas.ac.cn/~peitao
+
+"du":
+  - firstname: ["Yunyan", "Y."]
+    url: #
+
+"song":
+  - firstname: ["Ci", "C."]
+    url: #
+
+"shu":
+  - firstname: ["Hua", "H."]
+    url: #
+
+"zhou":
+  - firstname: ["Chenghu", "C."]
+    url: https://people.ucas.ac.cn/~zhouch

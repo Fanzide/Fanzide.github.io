@@ -1,0 +1,116 @@
+cv:
+  name: Zide Fan
+  label: Associate Professor
+  email: fanzd@aircas.ac.cn
+  location: Beijing, China
+  image: ""
+  summary: Associate Professor and Master's Supervisor at the Aerospace Information Research Institute, CAS. Research interests include aerospace big data intelligent processing, intelligent modeling and simulation.
+
+  social_networks:
+    - network: Google Scholar
+      username: tj4-qoEAAAAJ
+    - network: GitHub
+      username: Fanzide
+
+  address:
+    street: Office 621, Kedian Building
+    city: Beijing
+    region: Haidian District
+    postalCode: "100019"
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Central South University
+        location: Changsha, Hunan, China
+        url: https://en.csu.edu.cn/
+        area: Cartography and Geographic Information Engineering
+        studyType: PhD
+        start_date: 2013
+        end_date: 2016
+        courses: "Advisor: Academician Jianya Gong"
+        highlights:
+          - Spatial interpolation methods for heterogeneous spatio-temporal data
+
+      - institution: Central South University
+        location: Changsha, Hunan, China
+        area: Cartography and Geographic Information Engineering
+        studyType: Master
+        start_date: 2010
+        end_date: 2013
+        highlights: []
+
+      - institution: Central South University
+        location: Changsha, Hunan, China
+        area: Surveying Engineering
+        studyType: Bachelor
+        start_date: 2006
+        end_date: 2010
+        highlights: []
+
+    Experience:
+      - company: Aerospace Information Research Institute, CAS
+        position: Associate Professor / Deputy Director, Dept. 2
+        location: Beijing, China
+        start_date: 2021
+        end_date: present
+        summary: Leading research in simulation and training technologies. Supervising master's students. Serving as PI and chief designer for multiple major national projects.
+        highlights:
+          - Led 20+ research projects
+          - Published 30+ SCI papers, 3 monographs, 30+ patents
+          - CAS AIR Future Star Talent Program (2022)
+
+      - company: Aerospace Information Research Institute, CAS
+        position: Assistant Professor
+        location: Beijing, China
+        start_date: 2018
+        end_date: 2020
+        summary: Research on aerospace big data processing and intelligent modeling.
+        highlights: []
+
+      - company: Institute of Geographic Sciences and Natural Resources Research, CAS
+        position: Postdoctoral Researcher
+        location: Beijing, China
+        start_date: 2016
+        end_date: 2019
+        summary: Big spatial data mining at the State Key Laboratory of Resources and Environmental Information System.
+        highlights: []
+
+    Awards:
+      - title: CAS AIR Future Star Talent Program
+        date: 2022
+        awarder: Aerospace Information Research Institute, CAS
+        summary: Selected for the prestigious talent program recognizing outstanding young researchers.
+
+      - title: CAS Distinguished Researcher
+        date: ""
+        awarder: Chinese Academy of Sciences
+        summary: Recognized as a specially-appointed key researcher.
+
+    Skills:
+      - name: Remote Sensing
+        level: Expert
+        icon: fa-solid fa-satellite
+        keywords: "Ship detection, Semantic segmentation, Image processing, NeRF"
+
+      - name: Geospatial Analysis
+        level: Expert
+        icon: fa-solid fa-map
+        keywords: "Spatial interpolation, GIS, Spatiotemporal data"
+
+      - name: Deep Learning
+        level: Expert
+        icon: fa-solid fa-brain
+        keywords: "Semi-supervised learning, Graph neural networks, Meta-learning, Trajectory prediction"
+
+      - name: Simulation & Modeling
+        level: Expert
+        icon: fa-solid fa-cube
+        keywords: "Distributed simulation, Digital twin, Physics-informed deep learning"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Professional working proficiency"
