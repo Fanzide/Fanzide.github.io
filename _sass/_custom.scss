@@ -1,6 +1,7 @@
 // Custom styles for author highlighting
 // Make highlighted author names bold in publications
 .publications ol.bibliography li .author > em {
-  font-weight: bold;
+  font-weight: bold !important;        // 加上 !important 确保生效
+  font-style: normal;
   border-bottom: 2px solid var(--global-theme-color);
 }
