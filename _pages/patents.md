@@ -4,15 +4,15 @@ permalink: /patents/
 title: patents
 description: Invention patents in reversed chronological order.
 nav: true
-nav_order: 6
+nav_order: 3
 AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '0367cafa-2b90-4ec9-9912-2ca983c85b6c'
-  PropagateID: '0367cafa-2b90-4ec9-9912-2ca983c85b6c'
-  ReservedCode1: '16639b58-c3f0-45f9-807a-42b23df00c56'
-  ReservedCode2: '16639b58-c3f0-45f9-807a-42b23df00c56'
+  ProduceID: '440443c0-9b0c-440a-91ee-3833f239af9d'
+  PropagateID: '440443c0-9b0c-440a-91ee-3833f239af9d'
+  ReservedCode1: '8b081ef6-a6a2-4711-8b13-78c1a608026a'
+  ReservedCode2: '8b081ef6-a6a2-4711-8b13-78c1a608026a'
 ---
 
 <div class="patents">
