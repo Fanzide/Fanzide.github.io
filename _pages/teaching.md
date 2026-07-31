@@ -5,14 +5,6 @@ title: teaching
 description: Teaching and student supervision.
 nav: true
 nav_order: 4
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '01d7a1de-e6ee-4d14-b0e7-2d6b1d45dc99'
-  PropagateID: '01d7a1de-e6ee-4d14-b0e7-2d6b1d45dc99'
-  ReservedCode1: '8f1c28bc-e33a-4132-8569-b6ff6c2cdd4a'
-  ReservedCode2: '8f1c28bc-e33a-4132-8569-b6ff6c2cdd4a'
 ---
 
 <div class="teachings">
@@ -44,13 +36,11 @@ Please contact [fanzd@aircas.ac.cn](mailto:fanzd@aircas.ac.cn) for inquiries.
 
 | Year | Student | Program |
 |------|---------|---------|
-| 2021 | 杈涜壓 / Yi Xin | Master, Signal & Information Processing |
-| 2022 | 榛勯榫?/ Feilong Huang | Master, Signal & Information Processing |
-| 2023 | 鏉庨箯椋?/ Pengfei Li | Master, Signal & Information Processing |
-| 2023 | 鍚存旦鍗?/ Haohua Wu | Master, Electronic Information |
-| 2024 | 榛勬澃 / Jie Huang | Master, Signal & Information Processing |
-| 2025 | 寮犲紑蹇?/ Kaixin Zhang | Ph.D, Signal & Information Processing |
-| 2025 | 鑼冧繆璞?/ Junhao Fan | Master, Signal & Information Processing |
-| 2026 | 琚佷匠鎱?/ Jiahui Yuan | Master, Signal & Information Processing |
-
-> AI鐢熸垚
+| 2021 | 辛艺 / Yi Xin | Master, Signal & Information Processing |
+| 2022 | 黄飞龙 / Feilong Huang | Master, Signal & Information Processing |
+| 2023 | 李鹏飞 / Pengfei Li | Master, Signal & Information Processing |
+| 2023 | 吴浩华 / Haohua Wu | Master, Electronic Information |
+| 2024 | 黄杰 / Jie Huang | Master, Signal & Information Processing |
+| 2025 | 张开心 / Kaixin Zhang | Ph.D, Signal & Information Processing |
+| 2025 | 范俊豪 / Junhao Fan | Master, Signal & Information Processing |
+| 2026 | 袁佳慧 / Jiahui Yuan | Master, Signal & Information Processing |

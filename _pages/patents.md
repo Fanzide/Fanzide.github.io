@@ -5,14 +5,6 @@ title: patents
 description: Invention patents in reversed chronological order.
 nav: true
 nav_order: 3
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '65b96d83-308d-4992-a756-9fb9c0dc2de1'
-  PropagateID: '65b96d83-308d-4992-a756-9fb9c0dc2de1'
-  ReservedCode1: '800b31ef-14f1-4955-973b-20b6bc959cad'
-  ReservedCode2: '800b31ef-14f1-4955-973b-20b6bc959cad'
 ---
 
 <div class="patents">
