@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-Zide Fan (樊子德) is an **Associate Professor** and **Master's Supervisor** at the [Aerospace Information Research Institute (AIR)](https://english.aircas.cas.cn/), Chinese Academy of Sciences (CAS). He also serves as the **Deputy Director** of the Second Department at AIR, leading research in simulation and training technologies.
+Zide Fan is an **Associate Professor** and **Master's Supervisor** at the [Aerospace Information Research Institute (AIR)](https://english.aircas.cas.cn/), Chinese Academy of Sciences (CAS). He also serves as the **Deputy Director** of the Second Department at AIR, leading research in simulation and training technologies.
 
 樊子德，中国科学院空天信息创新研究院副研究员、硕士研究生导师，兼任空天院二部副主任，主要负责仿真与训练技术研究。
 
