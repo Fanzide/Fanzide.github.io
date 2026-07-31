@@ -28,10 +28,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'ac9eb415-5bd6-41f9-829e-8e1b5d021c98'
-  PropagateID: 'ac9eb415-5bd6-41f9-829e-8e1b5d021c98'
-  ReservedCode1: '0066f888-4fa3-47bf-aa89-bcff500f1054'
-  ReservedCode2: '0066f888-4fa3-47bf-aa89-bcff500f1054'
+  ProduceID: 'cadf2cd1-bb61-4004-89d8-6c85ef6f2d56'
+  PropagateID: 'cadf2cd1-bb61-4004-89d8-6c85ef6f2d56'
+  ReservedCode1: '92e786cb-2c58-495f-858d-b7af453c89f7'
+  ReservedCode2: '92e786cb-2c58-495f-858d-b7af453c89f7'
 ---
 
 Zide Fan is an **Associate Professor** and **Master's Supervisor** at the [Aerospace Information Research Institute (AIR)](https://english.aircas.cas.cn/), Chinese Academy of Sciences (CAS). He also serves as the **Deputy Director** of the Second Department at AIR, leading research in simulation and training technologies.
