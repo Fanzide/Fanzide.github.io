@@ -310,7 +310,7 @@ display_categories: ["external-services"]
 
 scholar:
   last_name: [Fan]
-  first_name: [Zide, Z.]
+  first_name: [Zide, Z., Zide*]
 
   style: apa
   locale: en
