@@ -369,7 +369,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication
-max_author_limit: 3
+max_author_limit: 100
 more_authors_animation_delay: 10
 
 # Enables publication thumbnails
