@@ -28,10 +28,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'dfa1a4e3-75dd-4cd2-8079-aacda96245cd'
-  PropagateID: 'dfa1a4e3-75dd-4cd2-8079-aacda96245cd'
-  ReservedCode1: '5fecfedf-b865-440e-9fed-69a66578de5c'
-  ReservedCode2: '5fecfedf-b865-440e-9fed-69a66578de5c'
+  ProduceID: 'd1dcfb4d-408f-4c22-b74f-9c85f129a58f'
+  PropagateID: 'd1dcfb4d-408f-4c22-b74f-9c85f129a58f'
+  ReservedCode1: '639fe0ec-21e2-4b74-b3bf-1c34090246b6'
+  ReservedCode2: '639fe0ec-21e2-4b74-b3bf-1c34090246b6'
 ---
 
 Zide Fan is an **Associate Professor** and **Master's Supervisor** at the [Aerospace Information Research Institute (AIR)](https://english.aircas.cas.cn/), Chinese Academy of Sciences (CAS). He also serves as the **Deputy Director** of the Second Department at AIR, leading research in simulation and training technologies.
@@ -46,12 +46,35 @@ He was selected for the CAS AIR "Future Star" Talent Program (2022) and serves a
 
 ---
 
-樊子德，中国科学院空天信息创新研究院副研究员、硕士研究生导师，兼任空天院二部副主任，主要负责仿真与训练技术研究。
+妯婂瓙寰凤紝涓浗绉戝闄㈢┖澶╀俊鎭垱鏂扮爺绌堕櫌鍓爺绌跺憳銆佺澹爺绌剁敓瀵煎笀锛屽吋浠荤┖澶╅櫌浜岄儴鍓富浠伙紝涓昏璐熻矗浠跨湡涓庤缁冩妧鏈爺绌躲€?
 
-2016年毕业于中南大学地图制图学与地理信息工程专业，获博士学位（导师：龚健雅院士），随后在中国科学院地理科学与资源研究所从事大数据空间数据挖掘博士后研究。
+2016骞存瘯涓氫簬涓崡澶у鍦板浘鍒跺浘瀛︿笌鍦扮悊淇℃伅宸ョ▼涓撲笟锛岃幏鍗氬＋瀛︿綅锛堝甯堬細榫氬仴闆呴櫌澹級锛岄殢鍚庡湪涓浗绉戝闄㈠湴鐞嗙瀛︿笌璧勬簮鐮旂┒鎵€浠庝簨澶ф暟鎹┖闂存暟鎹寲鎺樺崥澹悗鐮旂┒銆?
 
-研究方向包括空天大数据智能处理、智能建模与仿真、遥感图像理解、轨迹预测等。近五年主持科研项目20余项，包括中国科学院战略先导A类专项、国家自然科学基金、多项重大国防项目等。发表SCI论文30余篇，出版专著3部，获授权发明专利60余项。
+鐮旂┒鏂瑰悜鍖呮嫭绌哄ぉ澶ф暟鎹櫤鑳藉鐞嗐€佹櫤鑳藉缓妯′笌浠跨湡銆侀仴鎰熷浘鍍忕悊瑙ｃ€佽建杩归娴嬬瓑銆傝繎浜斿勾涓绘寔绉戠爺椤圭洰20浣欓」锛屽寘鎷腑鍥界瀛﹂櫌鎴樼暐鍏堝A绫讳笓椤广€佸浗瀹惰嚜鐒剁瀛﹀熀閲戙€佸椤归噸澶у浗闃查」鐩瓑銆傚彂琛⊿CI璁烘枃30浣欑瘒锛屽嚭鐗堜笓钁?閮紝鑾锋巿鏉冨彂鏄庝笓鍒?0浣欓」銆?
 
-2022年入选空天院"未来之星"人才计划，担任中国指挥与控制学会空天大数据与人工智能专业委员会秘书长。同时担任IEEE Transactions on Geoscience and Remote Sensing、Computers Environment and Urban Systems等多个国内外学术期刊审稿人。
+2022骞村叆閫夌┖澶╅櫌"鏈潵涔嬫槦"浜烘墠璁″垝锛屾媴浠讳腑鍥芥寚鎸ヤ笌鎺у埗瀛︿細绌哄ぉ澶ф暟鎹笌浜哄伐鏅鸿兘涓撲笟濮斿憳浼氱涔﹂暱銆傚悓鏃舵媴浠籌EEE Transactions on Geoscience and Remote Sensing銆丆omputers Environment and Urban Systems绛夊涓浗鍐呭瀛︽湳鏈熷垔瀹＄浜恒€?
 
-**招收研究生：** 课题组2026年拟招收硕士研究生2名，欢迎具有人工智能、遥感、GIS等相关背景的同学报考，具备较强编程能力者优先。有意者请联系 [fanzd@aircas.ac.cn](mailto:fanzd@aircas.ac.cn)。
+**鎷涙敹鐮旂┒鐢燂細** 璇鹃缁?026骞存嫙鎷涙敹纭曞＋鐮旂┒鐢?鍚嶏紝娆㈣繋鍏锋湁浜哄伐鏅鸿兘銆侀仴鎰熴€丟IS绛夌浉鍏宠儗鏅殑鍚屽鎶ヨ€冿紝鍏峰杈冨己缂栫▼鑳藉姏鑰呬紭鍏堛€傛湁鎰忚€呰鑱旂郴 [fanzd@aircas.ac.cn](mailto:fanzd@aircas.ac.cn)銆?
+
+<style>
+/* 鍖哄潡鍒嗗壊绾匡細涓汉绠€浠嬩笌鏂伴椈涔嬮棿 */
+.clearfix + h2 {
+  border-top: 1px solid var(--global-divider-color, rgba(0,0,0,0.1));
+  margin-top: 3rem;
+  padding-top: 2rem;
+}
+/* 鏂伴椈涓庨€変腑璁烘枃涔嬮棿 */
+.news + h2 {
+  border-top: 1px solid var(--global-divider-color, rgba(0,0,0,0.1));
+  margin-top: 3rem;
+  padding-top: 2rem;
+}
+/* 閫変腑璁烘枃涓庣ぞ浜ゅ浘鏍囦箣闂?*/
+.social {
+  border-top: 1px solid var(--global-divider-color, rgba(0,0,0,0.1));
+  margin-top: 3rem;
+  padding-top: 2rem;
+}
+</style>
+
+> AI鐢熸垚
