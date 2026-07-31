@@ -5,14 +5,12 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '2edbd26f-f7f4-41c5-825a-59368f26013e'
-  PropagateID: '2edbd26f-f7f4-41c5-825a-59368f26013e'
-  ReservedCode1: '4ada0a9e-8451-4575-877b-4ca937a016c9'
-  ReservedCode2: '4ada0a9e-8451-4575-877b-4ca937a016c9'
+  ProduceID: '4600d39a-ba1e-45d3-8dbf-30981ec5a791'
+  PropagateID: '4600d39a-ba1e-45d3-8dbf-30981ec5a791'
+  ReservedCode1: 'a94c2cfa-f363-4322-8016-f9ba4cff1a2c'
+  ReservedCode2: 'a94c2cfa-f363-4322-8016-f9ba4cff1a2c'
 ---
 
 Congratulations! One paper has been accepted by ACM Multimedia 2026, and two paper has been accepted by ECCV 2026.
 
 祝贺课题组在ACM MM 2026发表论文1篇，在ECCV 2026发表学术论文2篇。
-
-> AI生成

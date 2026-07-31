@@ -28,10 +28,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'cadf2cd1-bb61-4004-89d8-6c85ef6f2d56'
-  PropagateID: 'cadf2cd1-bb61-4004-89d8-6c85ef6f2d56'
-  ReservedCode1: '92e786cb-2c58-495f-858d-b7af453c89f7'
-  ReservedCode2: '92e786cb-2c58-495f-858d-b7af453c89f7'
+  ProduceID: 'dfa1a4e3-75dd-4cd2-8079-aacda96245cd'
+  PropagateID: 'dfa1a4e3-75dd-4cd2-8079-aacda96245cd'
+  ReservedCode1: '5fecfedf-b865-440e-9fed-69a66578de5c'
+  ReservedCode2: '5fecfedf-b865-440e-9fed-69a66578de5c'
 ---
 
 Zide Fan is an **Associate Professor** and **Master's Supervisor** at the [Aerospace Information Research Institute (AIR)](https://english.aircas.cas.cn/), Chinese Academy of Sciences (CAS). He also serves as the **Deputy Director** of the Second Department at AIR, leading research in simulation and training technologies.
@@ -55,5 +55,3 @@ He was selected for the CAS AIR "Future Star" Talent Program (2022) and serves a
 2022年入选空天院"未来之星"人才计划，担任中国指挥与控制学会空天大数据与人工智能专业委员会秘书长。同时担任IEEE Transactions on Geoscience and Remote Sensing、Computers Environment and Urban Systems等多个国内外学术期刊审稿人。
 
 **招收研究生：** 课题组2026年拟招收硕士研究生2名，欢迎具有人工智能、遥感、GIS等相关背景的同学报考，具备较强编程能力者优先。有意者请联系 [fanzd@aircas.ac.cn](mailto:fanzd@aircas.ac.cn)。
-
-> AI生成

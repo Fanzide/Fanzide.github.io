@@ -9,10 +9,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '440443c0-9b0c-440a-91ee-3833f239af9d'
-  PropagateID: '440443c0-9b0c-440a-91ee-3833f239af9d'
-  ReservedCode1: '8b081ef6-a6a2-4711-8b13-78c1a608026a'
-  ReservedCode2: '8b081ef6-a6a2-4711-8b13-78c1a608026a'
+  ProduceID: '65b96d83-308d-4992-a756-9fb9c0dc2de1'
+  PropagateID: '65b96d83-308d-4992-a756-9fb9c0dc2de1'
+  ReservedCode1: '800b31ef-14f1-4955-973b-20b6bc959cad'
+  ReservedCode2: '800b31ef-14f1-4955-973b-20b6bc959cad'
 ---
 
 <div class="patents">
@@ -48,5 +48,3 @@ AIGC:
     </div>
   {% endfor %}
 </div>
-
-> AI生成
